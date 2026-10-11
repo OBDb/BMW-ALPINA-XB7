@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Alpina_XB7"
+
+generations:
+  - name: "G07"
+    start_year: 2020
+    end_year: null
+    description: "ALPINA's version of the X7 with a 4.4 L twin-turbo V8."
